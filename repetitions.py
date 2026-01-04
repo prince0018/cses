@@ -8,4 +8,4 @@ for x in range(1,len(check)):
         curLen=1
     output=max(output,curLen)
 print(output)
-..
+...
