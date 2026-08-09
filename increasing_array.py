@@ -7,4 +7,4 @@ for x in range(1,len(arr)):
         res+=(arr[x-1]-arr[x])
         arr[x]=arr[x-1]
 print(res)
-..
+...
